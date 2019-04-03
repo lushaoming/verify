@@ -1,5 +1,6 @@
 ### How to install?
 - Use composer command : composer require lsmverify/lsmverify
+- No composer? click [here](https://getcomposer.org/download/ "here") to download and install composer.
 ### How to use this package?
 ```php
 <?php

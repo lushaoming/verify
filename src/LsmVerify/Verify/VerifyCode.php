@@ -199,7 +199,7 @@ class VerifyCode
             'onlyNumber' => false,// 是否只包含数字
             'textColor' => [50, 50, 255],
             'backColor' => [255, 255, 255],
-            'font' => __DIR__ . '/basic.TTF',
+            'font' => __DIR__ . '/basic.ttf',
             'fontSize' => 20,
             'maxNumber' => 20,// 计算式最大的数
         ];

@@ -1,0 +1,19 @@
+{
+    "name": "lsmverify/lsmverify",
+    "description": "PHP verify code",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "卢绍明",
+            "email": "lusm@sz-bcs.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LsmVerify\\Verify\\" : "src/LsmVerify/Verify"
+        }
+    }
+}
